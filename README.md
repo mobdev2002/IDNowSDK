@@ -9,4 +9,4 @@ pod 'iOSIDNowSDK', :podspec => '../IDNowSDK/iOSIDNowSDK.podspec'
 
 4. Run 'pod install' in 'cd {Root_RN_APP}/ios' file path
 
-See 'IDNowSDK' implementation in IDNowRNExample
+See 'IDNowSDK' implementation in 'RNIDNowExample' folder
