@@ -9,6 +9,6 @@
 #import <React/RCTBridgeModule.h>
 #import <React/RCTEventEmitter.h>
 
-@interface IDNowSDKManager : NSObject <RCTBridgeModule>
+@interface IDNowSDKManager : RCTEventEmitter <RCTBridgeModule>
 @end
 
